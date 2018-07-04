@@ -10,7 +10,7 @@
     <dependency id="cordova-plugin-zip" />
 
     <js-module src="www/tensorflow.js" name="tensorflow">
-        <clobbers target="TensorFlow" />
+        <clobbers target="TensorFlowJS" />
     </js-module>
 
     <platform name="android">

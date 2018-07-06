@@ -108,6 +108,8 @@
             @"confidence": result.confidence
         }];
     }
+
+    return result;
 }
 
 @end
